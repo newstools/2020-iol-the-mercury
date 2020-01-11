@@ -1,0 +1,112 @@
+Johannesburg - Police in Gauteng have confirmed the arrest of Longwe Twala on a charge of theft. 
+This after a video went viral on Friday, where the 34-year-old Longwe was seen in video footage being scolded publicly at a police station by his music icon father, Chicco Twala. 
+It is unclear what Longwe allegedly stole, but his livid father is heard saying in the video that he wished he was responsible for Orlando Pirates goalkeeper Senzo Meyiwa’s death, so he could rot in jail. 
+In the video, his father repeatedly admonishes the former child star for bringing shame to the family with his alleged use of drugs, theft and the cloud surrounding Meyiwa's death, which is now subject to private prosecution by the lobby group, AfriForum. 
+Confirming Longwe’s arrest, Gauteng provincial police spokesperson Brigadier Mathaphelo Peters, confirmed he had been arrested on Wednesday at the Diepkloof Police Station. 
+“A suspect was arrested on a theft case that was reported at Diepkloof SAPS on Wednesday 8 January 2020. The 34-year old suspect appeared before court today,” Peters confirmed. 
+She referred further queries to the National Prosecuting Authority. 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2020/01/10/40373199/0/ChiccoTwalahandsoverhissonLongweTwalatoDiepkloofPoliceStationforstealing.Sen.0000003.jpg'",
+    "uploadDate": "",
+    "duration": "'P0Y0M0DT0H1M26.067S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'"
+    },
+    "contentUrl": "'https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2020/01/10/40373199/0/ChiccoTwalahandsoverhissonLongweTwalatoDiepkloofPoliceStationforstealing.Sen.mp4'",
+    "embedUrl": "'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDIwLzAxLzEwLzQwMzczMTk5LzAvQ2hpY2NvVHdhbGFoYW5kc292ZXJoaXNzb25Mb25nd2VUd2FsYXRvRGllcGtsb29mUG9saWNlU3RhdGlvbmZvcnN0ZWFsaW5nLlNlbi5tcDQmc3RhbmRBbG9uZT10cnVl'"
+}
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+  
+    
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1578674196589', {
+  plugins: {
+    brand: {
+        image: "//cdn.mojoreporter.com/videojs/imigino30.png",
+        title: "Imigino Streaming Video",
+        destination: "https://www.publisherstoolbox.com/imigino/",
+        destinationTarget: "_blank"
+    },
+    embed:{
+      embeddable: true,
+      location: 'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDIwLzAxLzEwLzQwMzczMTk5LzAvQ2hpY2NvVHdhbGFoYW5kc292ZXJoaXNzb25Mb25nd2VUd2FsYXRvRGllcGtsb29mUG9saWNlU3RhdGlvbmZvcnN0ZWFsaW5nLlNlbi5tcDQmc3RhbmRBbG9uZT10cnVl'
+    },
+    ga: {
+      'eventLabel': ['https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2020/01/10/40373199/0/ChiccoTwalahandsoverhissonLongweTwalatoDiepkloofPoliceStationforstealing.Sen.mp4'],
+      'eventsToTrack': ['percentsPlayed', 'start', 'end', 'play', 'pause', 'fullscreen', 'error']
+    },
+  }
+});
+player.ima({
+  id: 'player-1578674196589',
+  requestMode: 'onPlay',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+  
+   Chicco Twala hands over his son Longwe Twala to Diepkloof Police Station for alleged stealing. Video: Twitter
+  
+ 
+Numerous attempts to the spokesperson of the NPA were unsuccessful. 
+Meanwhile, in the viral video, Chicco, who appeared to be filming the entire saga himself, was heard swearing at his son and clicking his tongue in disgust. 
+He alleges that when Longwe stole, he had been wearing an EFF T-shirt. 
+He scolds his son and says the EFF does not stand for theft, and rebukes him for tarnishing his supposed good reputation. 
+“I will never stand for this sh**. Bloody sh**. 
+“My name is destroyed, everyone when they see Chicco Twala they see a criminal, they see a drug lord, they see all this sh**, I worked hard for my name. 
+“I can’t stand for this bullsh**, f*****n bastard,” says Chicco. 
+
+  
+  
+   Chicco Twala 
+  
+ 
+Alarmingly, Chicco goes on to tell the police officers to shoot his son if he attempts to escape and exclaims that Longwe is better off dead, than alive, because he is busy destroying his name. 
+“Senzo Meyiwa, stealing from people, drugs and all that, I can’t stand for this sh**,” he said. 
+“He must never get bail, we will oppose that bail vigorously, he must go to jail, the bastard. 
+“You were even wearing EFF’s T-shirt when you were stealing, do you want Julius Malema to harrass me and say Chicco Twala’s son what what and all that sh**, EFF doesn’t stand for all that sh**, EFF doesn’t stand for people who steal, f*****n bastard,” said Chicco. 
+IOL
