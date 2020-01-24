@@ -1,0 +1,141 @@
+Durban - KwaZulu-Natal MEC for Education, Kwazi Mshengu, has condemned a shooting at a Durban school that has left a teacher in a serious condition in hospital. 
+ 
+
+ Mshengu addressed media after visiting the Buhlebethu Primary School in Inanda on Thursday, where he spoke to management regarding the incident. 
+
+ 
+
+ It is alleged that the attackers entered the school on Wednesday, pretending to be parents wanting place for their children. 
+
+ 
+
+ "The men went into the staff room and mugged teachers of their valuables. The principal heard the teachers screaming and saw, via the CCTV cameras, what was happening. The principal also shouted for help using the school's intercom system," he said. 
+
+ 
+
+ Mshengu said while the men were fleeing, they confronted the teacher who was coming to assist after hearing the other teachers' screaming. 
+
+ 
+
+ One of the men withdrew a firearm and shot the teacher. He was rushed to hospital. 
+
+ 
+
+ Mshengu said he has since visited the teacher who is in ICU at a local hospital. 
+
+ 
+
+ "These criminals have been identified and I want to call on the community to assist in tracking them down. It is an unfortunate incident because they took advantage of the fact that parents are in and out of schools, looking for place for their children," he said.  
+
+ 
+
+ Mshengu appealed to residents to assist police in tracking down those responsible for the attack. 
+
+ 
+
+ He said the school was one of the best secured schools. 
+
+ 
+
+ "This school has a fence, a security guard, CCTV and an intercom. Unfortunately they managed to breach through the security, pretending to be parents," he said. 
+
+ 
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-cdn.baobabsuite.com/public/inm/media/video/2020/01/23/43549596WhatsAppVideo20200123at10.49.57.0000003.jpg'",
+    "uploadDate": "",
+    "duration": "'P0Y0M0DT0H2M26.540S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'"
+    },
+    "contentUrl": "'https://inm-cdn.baobabsuite.com/public/inm/media/video/2020/01/23/43549596WhatsAppVideo20200123at10.49.57.mp4'",
+    "embedUrl": "'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMjAvMDEvMjMvNDM1NDk1OTZXaGF0c0FwcFZpZGVvMjAyMDAxMjNhdDEwLjQ5LjU3Lm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+  
+    
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1579774394637', {
+  plugins: {
+    brand: {
+        image: "//cdn.mojoreporter.com/videojs/imigino30.png",
+        title: "Imigino Streaming Video",
+        destination: "https://www.publisherstoolbox.com/imigino/",
+        destinationTarget: "_blank"
+    },
+    embed:{
+      embeddable: true,
+      location: 'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMjAvMDEvMjMvNDM1NDk1OTZXaGF0c0FwcFZpZGVvMjAyMDAxMjNhdDEwLjQ5LjU3Lm1wNCZzdGFuZEFsb25lPXRydWU='
+    },
+    ga: {
+      'eventLabel': ['https://inm-cdn.baobabsuite.com/public/inm/media/video/2020/01/23/43549596WhatsAppVideo20200123at10.49.57.mp4'],
+      'eventsToTrack': ['percentsPlayed', 'start', 'end', 'play', 'pause', 'fullscreen', 'error']
+    },
+  }
+});
+player.ima({
+  id: 'player-1579774394637',
+  requestMode: 'onPlay',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ Meanwhile, teacher union Naptosa, has condemned the shooting. 
+
+  
+
+ "Schools must be a safe haven for the teachers and pupil
+ s, there must be security measures in place at school to prevent outsiders unlawfully
+
+ entering the school premises. 
+ The Department of Education must escalate school security as a priority on the agenda. Teachers
+
+ who feel unsafe can never be productive in the classrooms," said Naptosa provincial CEO, Thirona Moodley.
+
+ 
+
+ The Mercury
